@@ -1,0 +1,10 @@
+confluent-kafka~=2.2.0
+faust-streaming~=0.10.16
+websockets~=11.0.3
+pyspark~=3.5.0
+numpy
+pandas
+dbldatagen~=0.3.5
+apache-beam[interactive,dataframe]~=2.51.0
+jmespath
+tabulate
